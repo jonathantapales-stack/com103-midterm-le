@@ -10,7 +10,7 @@ heroes = ["Alucard", "Miya", "Tigreal", "Eudora", "Lancelot"]
 print("\nHero Roster:")
 for i in range(len(heroes)):
     print(f"{i+1}. {heroes[i]}")
-#aron is a nigger
+
 # Storage for match data
 matches = []
 
